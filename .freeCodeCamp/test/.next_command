@@ -57,3 +57,4 @@ clear
 touch countdown.sh
 chmod +x countdown.sh
 which bash
+./countdown.sh
