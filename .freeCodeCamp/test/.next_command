@@ -97,3 +97,4 @@ help [[
 ./countdown.sh -1
 help
 ./countdown.sh 10
+help
