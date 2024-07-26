@@ -86,3 +86,4 @@ ls --color=auto
 ls --color=auto -y
 clear
 help test
+[[ -a countdown.sh ]]
