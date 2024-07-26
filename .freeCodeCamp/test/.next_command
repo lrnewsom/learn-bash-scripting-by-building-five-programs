@@ -63,3 +63,4 @@ which bash
 help
 man if
 help if
+./countdown.sh arg1
