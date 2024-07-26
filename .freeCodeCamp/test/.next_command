@@ -46,3 +46,5 @@ ls --color=auto -l
 clear
 echo --help
 man echo
+man echo
+./questionnaire.sh
