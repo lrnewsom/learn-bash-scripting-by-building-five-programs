@@ -205,3 +205,9 @@ chmod +x fortune.sh
 ARR=("a" "b" "c")
 ${ARR[1]}
 echo ${ARR[1]}
+echo $*
+echo $ARR
+echo $ARR*
+echo $*$ARR
+echo *ARR
+echo ${ARR[@]}
