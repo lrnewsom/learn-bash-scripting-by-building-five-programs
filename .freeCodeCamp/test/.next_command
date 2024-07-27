@@ -216,3 +216,4 @@ declare -p ARR
 clear
 ./fortune.sh
 help
+help function
