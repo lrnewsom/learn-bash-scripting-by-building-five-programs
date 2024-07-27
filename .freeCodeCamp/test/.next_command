@@ -250,3 +250,4 @@ clear
 ./fortune.sh
 clear
 touch five.shj
+chmod +x five.sh
