@@ -243,3 +243,4 @@ echo $VAR
 ./fortune.sh
 ./fortune.sh
 clear
+./fortune.sh
