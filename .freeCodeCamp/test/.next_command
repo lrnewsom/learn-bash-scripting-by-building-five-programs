@@ -240,3 +240,6 @@ echo $VAR
 [[ $VAR =~ \?$ ]]
 [[ test? =~ \?$ ]]
 ./fortune.sh
+./fortune.sh
+./fortune.sh
+clear
