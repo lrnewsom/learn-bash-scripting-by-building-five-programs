@@ -222,3 +222,4 @@ clear
 ./fortune.sh
 help
 help until
+./fortune.sh
