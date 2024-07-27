@@ -245,3 +245,8 @@ echo $VAR
 clear
 ./fortune.sh
 ./fortune.sh
+./fortune.sh
+./fortune.sh
+./fortune.sh
+clear
+touch five.shj
